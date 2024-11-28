@@ -1681,3 +1681,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [28Nov2024 01:07:40.609] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2146ms or 42 ticks behind
 [28Nov2024 01:08:00.122] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
 [28Nov2024 01:08:26.563] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2100ms or 42 ticks behind
+[28Nov2024 01:08:49.023] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[28Nov2024 01:10:20.692] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: b1e8c274-d112-4133-b69f-ea22e086ed21
+[28Nov2024 01:10:20.693] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: b1e8c274-d112-4133-b69f-ea22e086ed21
+[28Nov2024 01:11:36.631] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DogsitoMM lost connection: Disconnected
+[28Nov2024 01:11:36.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DogsitoMM left the game
