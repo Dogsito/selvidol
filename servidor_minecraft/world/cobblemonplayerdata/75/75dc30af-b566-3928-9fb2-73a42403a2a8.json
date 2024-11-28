@@ -72,6 +72,14 @@
             "discoveredTimestamp": 1732489715308,
             "caughtTimestamp": 1732489715308
           }
+        },
+        "ceruledge": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1732755514279,
+            "caughtTimestamp": 1732755514279
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -82,12 +90,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 5,
+    "totalCaptureCount": 6,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 43,
+    "totalBattleVictoryCount": 45,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 43,
+    "totalPvWBattleVictoryCount": 45,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -99,7 +107,8 @@
       "flying": 1,
       "bug": 2,
       "steel": 1,
-      "fire": 1
+      "fire": 2,
+      "ghost": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:zigzagoon": 3,
@@ -128,7 +137,8 @@
       "cobblemon:eiscue": 1,
       "cobblemon:avalugg": 1,
       "cobblemon:haunter": 1,
-      "cobblemon:lickilicky": 1
+      "cobblemon:lickilicky": 1,
+      "cobblemon:ceruledge": 1
     },
     "aspectsCollected": {}
   }

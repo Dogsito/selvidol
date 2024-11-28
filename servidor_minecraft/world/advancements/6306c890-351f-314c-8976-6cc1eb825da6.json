@@ -4898,5 +4898,11 @@
     },
     "done": true
   },
+  "rechiseled:recipes/misc/chisel": {
+    "criteria": {
+      "recipe_condition": "2024-11-28 00:41:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

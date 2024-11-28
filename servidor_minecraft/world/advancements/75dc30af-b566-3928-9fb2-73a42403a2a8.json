@@ -897,6 +897,7 @@
       "minecraft:creeper": "2024-11-15 00:57:52 +0000",
       "minecraft:slime": "2024-11-15 03:04:46 +0000",
       "minecraft:evoker": "2024-11-18 23:38:25 +0000",
+      "minecraft:zombified_piglin": "2024-11-28 00:46:41 +0000",
       "minecraft:wither_skeleton": "2024-11-24 22:51:38 +0000",
       "minecraft:cave_spider": "2024-11-15 14:47:02 +0000",
       "minecraft:piglin": "2024-11-24 22:04:44 +0000",
@@ -6960,6 +6961,12 @@
   "spartanfire:recipes/lightning_dragonsteel_heavy_crossbow": {
     "criteria": {
       "has_lightning_dragonsteel": "2024-11-25 01:04:35 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:full_party": {
+    "criteria": {
+      "full_party": "2024-11-28 00:58:34 +0000"
     },
     "done": true
   },

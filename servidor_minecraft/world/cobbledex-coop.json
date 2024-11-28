@@ -199,6 +199,14 @@
         "discoveredTimestamp": 1732489715309,
         "caughtTimestamp": 1732489715309
       }
+    },
+    "ceruledge": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1732755514285,
+        "caughtTimestamp": 1732755514285
+      }
     }
   }
 }
