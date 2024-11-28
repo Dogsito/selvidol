@@ -1,0 +1,91 @@
+{
+  "uuid": "6306c890-351f-314c-8976-6cc1eb825da6",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "4ec261ba-d3b8-4e87-85a6-4eeaea7156ba",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {
+    "cobbledex_discovery": {
+      "registers": {
+        "sprigatito": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1731630225840,
+            "caughtTimestamp": 1731630225840
+          }
+        },
+        "growlithe": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1731636098043,
+            "caughtTimestamp": 1731636098043
+          }
+        },
+        "tandemaus": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1731638359978,
+            "caughtTimestamp": 1731638359978
+          }
+        },
+        "yamper": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1731641172107,
+            "caughtTimestamp": 1731641172107
+          }
+        },
+        "ponyta": {
+          "galar": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1731964904270,
+            "caughtTimestamp": 1731964904270
+          }
+        }
+      },
+      "name": "cobbledex_discovery"
+    },
+    "Cobbledex_RewardHistory": {
+      "received": [],
+      "name": "Cobbledex_RewardHistory"
+    }
+  },
+  "advancementData": {
+    "totalCaptureCount": 4,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 0,
+    "totalBattleVictoryCount": 19,
+    "totalPvPBattleVictoryCount": 1,
+    "totalPvWBattleVictoryCount": 18,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "fire": 1,
+      "normal": 1,
+      "electric": 1,
+      "psychic": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:taillow": 1,
+      "cobblemon:sentret": 3,
+      "cobblemon:zigzagoon": 1,
+      "cobblemon:wooloo": 1,
+      "cobblemon:petilil": 1,
+      "cobblemon:tandemaus": 1,
+      "cobblemon:lechonk": 2,
+      "cobblemon:bidoof": 1,
+      "cobblemon:cottonee": 1,
+      "cobblemon:bergmite": 1,
+      "cobblemon:snorunt": 1
+    },
+    "aspectsCollected": {}
+  }
+}

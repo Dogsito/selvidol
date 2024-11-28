@@ -1,0 +1,149 @@
+{
+  "uuid": "137430fc-6ae9-30fa-942c-7fbaae25277e",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "6ad3c932-e416-4903-85ef-a7abfe17fa8e",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {
+    "cobbledex_discovery": {
+      "registers": {
+        "froakie": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1731630208873,
+            "caughtTimestamp": 1731630208873
+          }
+        },
+        "gastly": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1731636351631,
+            "caughtTimestamp": 1731636351631
+          }
+        },
+        "frogadier": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1732029866400,
+            "caughtTimestamp": 1732029866400
+          }
+        },
+        "cetitan": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1732031754322,
+            "caughtTimestamp": 1732031754322
+          }
+        },
+        "avalugg": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1732033318452,
+            "caughtTimestamp": 1732033318452
+          }
+        },
+        "greninja": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1732485335366,
+            "caughtTimestamp": 1732485335366
+          }
+        },
+        "gengar": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1732485484423,
+            "caughtTimestamp": 1732485484423
+          }
+        },
+        "vaporeon": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1732485526827,
+            "caughtTimestamp": 1732485526827
+          }
+        },
+        "heracross": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1732485716920,
+            "caughtTimestamp": 1732485716920
+          }
+        },
+        "tropius": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1732485773170,
+            "caughtTimestamp": 1732485773170
+          }
+        },
+        "crobat": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1732487380958,
+            "caughtTimestamp": 1732487380958
+          }
+        },
+        "turtonator": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1732488772475,
+            "caughtTimestamp": 1732488772475
+          }
+        }
+      },
+      "name": "cobbledex_discovery"
+    },
+    "Cobbledex_RewardHistory": {
+      "received": [],
+      "name": "Cobbledex_RewardHistory"
+    }
+  },
+  "advancementData": {
+    "totalCaptureCount": 9,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 2,
+    "totalBattleVictoryCount": 13,
+    "totalPvPBattleVictoryCount": 1,
+    "totalPvWBattleVictoryCount": 12,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "ghost": 2,
+      "poison": 3,
+      "ice": 2,
+      "water": 1,
+      "bug": 1,
+      "fighting": 1,
+      "grass": 1,
+      "flying": 2,
+      "fire": 1,
+      "dragon": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:taillow": 1,
+      "cobblemon:zigzagoon": 1,
+      "cobblemon:patrat": 1,
+      "cobblemon:lechonk": 1,
+      "cobblemon:growlithe": 2,
+      "cobblemon:sentret": 1,
+      "cobblemon:meowth": 1
+    },
+    "aspectsCollected": {}
+  }
+}
